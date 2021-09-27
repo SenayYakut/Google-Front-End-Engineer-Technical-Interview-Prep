@@ -5,3 +5,5 @@
 #### DOM API & manipulation
 #### CSS manipulation
 #### Browser / DOM events & event handling
+#### XHR requests & HTTP headers
+#### JavaScript closures
